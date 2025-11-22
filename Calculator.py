@@ -10,6 +10,8 @@ def calculator():
     elif(z=="C"):
         print(x*y)
     elif(z=="D"):
-        print(x/y) 
+        print(x/y)
+    else:
+        print("Invalid operation choice. Please choose A, B, C, or D.") 
 
 calculator()
