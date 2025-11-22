@@ -7,3 +7,9 @@ def calculator():
         print(x+y)
     elif(z=="B"):
         print(x-y)
+    elif(z=="C"):
+        print(x*y)
+    elif(z=="D"):
+        print(x/y) 
+
+calculator()
