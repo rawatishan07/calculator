@@ -3,4 +3,7 @@ def calculator():
     y = int(input("enter any number"))
     z = input("choose A, B, C, D for addition, subtraction, multiplication and division")
 
-calculator()
+    if (z=="A"):
+        print(x+y)
+    elif(z=="B"):
+        print(x-y)
