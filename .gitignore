@@ -1,0 +1,11 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# VS Code directory (Assignment Requirement)
+.vscode/
+
+# Python specific files (if using Python)
+__pycache__/
+*.pyc
+venv/
