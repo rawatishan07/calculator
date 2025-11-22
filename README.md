@@ -37,4 +37,6 @@ Open your terminal or command prompt and run the following command to download t
 git clone [YOUR_GITHUB_REPO_LINK]
 cd [YOUR_REPO_NAME]
 ```
-![]("calculator/Capture.png")
+
+## Sample Output
+![Sample Output](assets/Capture.PNG)
